@@ -23,11 +23,11 @@
  </property>
  <property>
    <name>dfs.namenode.name.dir</name>
-   <value>file:/home/ranga/hadoop_store/hdfs/namenode</value>
+   <value>file:/home/rgurram/hadoop_store/hdfs/namenode</value>
  </property>
  <property>
    <name>dfs.datanode.data.dir</name>
-   <value>file:/home/ranga/hadoop_store/hdfs/datanode</value>
+   <value>file:/home/rgurram/hadoop_store/hdfs/datanode</value>
  </property>
 
 </configuration>
